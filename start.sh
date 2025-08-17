@@ -4,7 +4,7 @@
 swww-daemon &
 
 # setting wallpaper
-swww img ~/.dotfiles/assets/Wallpapers/lofiwallpaper.png &
+swww img ~/Wallpapers/lofiwallpaper.png &
 
 # you can install this by adding 
 # pkgs.networkmanagerapplet to your packages
