@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # initializing wallpaper daemon
-swww-daemon &
+#swww-daemon &
 
 # setting wallpaper
 swww img ~/Wallpapers/lofiwallpaper.png &
