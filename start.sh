@@ -8,11 +8,11 @@ swww img ~/Wallpapers/lofiwallpaper.png &
 
 # you can install this by adding 
 # pkgs.networkmanagerapplet to your packages
-nm-applet --indicator &
+#nm-applet --indicator &
 
 
 # the bar
-waybar &
+#waybar &
 
 # dunst
-dunst &
+#dunst &
